@@ -8,7 +8,9 @@ About the Data
 For this project, the data was stored in a CSV file, organized into three sections:
 
 Orders
+
 Customer
+
 Quantity
 
 These sheets contained information about our coffee sales, our customers, and the quantities of coffee they ordered. To streamline the analysis, I used a lookup function to combine the relevant details from these different sheets into one cohesive dataset, referred to as the "Customer" column. This consolidated data provides valuable insights into our customers' coffee orders, purchase quantities, and other critical details.
@@ -18,9 +20,11 @@ In simple terms, I transformed fragmented data from multiple sources into a neat
 Approach Used
 
 Data Manipulation and Visualization
+
 The approach involved both data manipulation and visualization. The dashboard includes several key features:
 
 Total Sales Over Time: 
+
 This visualization helps track revenue growth and identify seasonal patterns in sales.
 Sales by Customer: This section highlights our top-performing clients, allowing us to target our efforts effectively.
 
